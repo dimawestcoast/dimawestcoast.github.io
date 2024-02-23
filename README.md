@@ -3,7 +3,7 @@
 
 ![Photographer's Name Photography Portfolio](/path/to/cover/image.jpg) <!-- Add a cover image for your portfolio -->
 
-## About This is my photography page. please fee free to contact me via email to instagram to set up a photosession.
+## About This is my photography page. Please fee free to contact me via email to instagram to set up a photosession.
 
 Briefly introduce yourself as a photographer and describe the focus or style of your photography.
 
@@ -15,15 +15,29 @@ Briefly introduce yourself as a photographer and describe the focus or style of 
 
 Brief description of the portrait.
 
+![Portrait](421A9900.jpg)
+
+![Portrait](421A9947.jpg)
+
+![Portrait](421A9972.jpg)
+
+
+
 ### Landscape Photography
 
-![Landscape](421A9600.jpg)
+![Landscape](421A9374.jpg)
+
+![Landscape](421A9381.jpg)
+
+![Landscape](421A9454.jpg)
 
 Brief description of the landscape.
 
 ### Event Photography
 
-![Event](/path/to/event/image.jpg)
+![Event](421A9600.jpg)
+
+
 
 Brief description of the event photo.
 
@@ -31,12 +45,12 @@ Brief description of the event photo.
 
 ## Technologies Used
 
-- HTML5
-- CSS3
-- JavaScript
-- [Any additional technologies/tools you use for photography or website design]
+- CANON R6 TYPE 2
+- PHOTO EDITING WITH PHOTOSHOP AND LIGHT ROOM 
+- VIDEO PRODUCTION AND EDITING
+- 10+ YEARS EXPERIENCE AROUND THE WORLD
 
-## Installation
+## HOW TO SET UP
 
 Provide instructions on how to install and run your website locally, if applicable.
 
@@ -55,5 +69,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - [Photographer's Website](https://photographerwebsite.com)
-- [Photographer's Email](mailto:photographer@example.com)
-- [Photographer's Instagram](https://www.instagram.com/photographer/)
+- [Photographer's Email](mailto:datskevich.hanna@gmail.com)
+- [Photographer's Instagram](https://www.instagram.com/dimawestcoast/)
