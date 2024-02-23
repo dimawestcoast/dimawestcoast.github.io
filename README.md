@@ -1,7 +1,7 @@
-# dimawestcoast.github.io
-# [Hanna Datskevich] Photography Portfolio
 
-![Photographer's Name Photography Portfolio](/path/to/cover/image.jpg) <!-- Add a cover image for your portfolio -->
+# Hanna Datskevich Photography Portfolio
+
+![Hanna's Photography Portfolio](421A9454.jpg) <!-- Add a cover image for your portfolio -->
 
 ## About This is my photography page. Please fee free to contact me via email to instagram to set up a photosession.
 
