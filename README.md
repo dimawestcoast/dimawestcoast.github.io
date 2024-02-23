@@ -11,13 +11,13 @@ Briefly introduce yourself as a photographer and describe the focus or style of 
 
 ### Portrait Photography
 
-![Portrait](/path/to/portrait/image.jpg)
+![Portrait](421A9683.jpg)
 
 Brief description of the portrait.
 
 ### Landscape Photography
 
-![Landscape](/path/to/landscape/image.jpg)
+![Landscape](421A9600.jpg)
 
 Brief description of the landscape.
 
