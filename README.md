@@ -64,10 +64,10 @@ If you have any feedback or would like to contribute to the portfolio, please fo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This photographer is licensed under the [USA FBI Photo License](LICENSE).
 
 ## Contact
 
-- [Photographer's Website](https://photographerwebsite.com)
+- [Website](https://photographerwebsite.com)
 - [Photographer's Email](mailto:datskevich.hanna@gmail.com)
-- [Photographer's Instagram](https://www.instagram.com/dimawestcoast/)
+- [Photographer's Instagram](https://www.instagram.com/hannadphotography/)
